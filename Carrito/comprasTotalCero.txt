@@ -1,0 +1,7 @@
+precioUnitario producto codigo
+0 jabon 1232
+0 esponja 567
+0 chocolates 2364
+0 caramelos 456
+0 manzanas 879
+0 peras 678
